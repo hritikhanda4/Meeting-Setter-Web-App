@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Meeting Setter Web App">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Meeting_Setter_Web_App"/>
+        <property name="java-output-path" value="/Meeting Setter Web App/build/classes"/>
+    </wb-module>
+</project-modules>
